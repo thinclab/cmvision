@@ -23,4 +23,4 @@ need to detect.
 6.) After running roslaunch cmvision cmvision.launch, you should be able to see the results visually and by using rostopic echo /blobs
 
 
-![Gazebo Blobs](https://github.com/prasuchit/cmvision/blob/lab-space-devel/sample_output_images/gazebo_blobs.png)
+<!--![Gazebo Blobs](https://github.com/prasuchit/cmvision/blob/lab-space-devel/sample_output_images/gazebo_blobs.png)-->
